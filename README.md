@@ -1,6 +1,10 @@
 ### You'v reached MrPeterJin's leisure GitHub repos
 👋 Hi there, this repositories are definitely not MrPeterJin's second account for research. This account serves as a storage of my ideas which are out of nothing.
 
+- :orange_book: Apart from Deep Learning, Python. As a former ECE Undergraduate Student, I am also fond of Embedded System Design. Also learning other interesting Techs.
+- 🚀: Sometimes I write some apps for fun with Flutter or other frameworks.
+- 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -17,7 +21,12 @@
 
 <a href="mailto:petergamsing@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPeterJin)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 My Stats
+
+|Community|Language|
+|---|---|
+|<img src="https://github-readme-stats.vercel.app/api?username=MrPeterJin&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPeterJin&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
+
 
 
 <!--
