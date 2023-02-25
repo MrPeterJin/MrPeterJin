@@ -3,7 +3,6 @@
 
 - :orange_book: Apart from Deep Learning, Python. As a former ECE Undergraduate Student, I am also fond of Embedded System Design. Also learning other interesting Techs.
 - 🚀: Sometimes I write some apps for fun with Flutter or other frameworks.
-- 
 
 ### 🛠 &nbsp;Tech Stack
 
