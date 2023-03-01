@@ -4,6 +4,8 @@
 - :orange_book: Apart from Deep Learning, Python. As a former ECE Undergraduate Student, I am also fond of Embedded System Design. Also learning other interesting Techs.
 - 🚀: Sometimes I write some apps for fun with Flutter or other frameworks.
 
+My PGP signature is `BA8D F912 5DE6 EFE8 9540 0AB0 9D5A D561 9E27 B262`
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
