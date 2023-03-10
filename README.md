@@ -1,4 +1,7 @@
 ### You'v reached MrPeterJin's leisure GitHub repos
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=676023143277527056)
+
 👋 Hi there, this repositories are definitely not MrPeterJin's second account for research. This account serves as a storage of my ideas which are out of nothing.
 
 - :orange_book: Apart from Deep Learning, Python. As a former ECE Undergraduate Student, I am also fond of Embedded System Design. Also learning other interesting Techs.
@@ -21,8 +24,6 @@ My PGP signature is `BA8D F912 5DE6 EFE8 9540 0AB0 9D5A D561 9E27 B262`
 ### 📫 &nbsp; How to reach me:
 
 <a href="mailto:petergamsing@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=676023143277527056)
 
 ### 📈 My Stats
 
