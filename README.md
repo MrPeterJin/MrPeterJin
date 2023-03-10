@@ -22,6 +22,8 @@ My PGP signature is `BA8D F912 5DE6 EFE8 9540 0AB0 9D5A D561 9E27 B262`
 
 <a href="mailto:petergamsing@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=676023143277527056)
+
 ### 📈 My Stats
 
 |Community|Language|
