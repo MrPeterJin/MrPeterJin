@@ -5,7 +5,7 @@
 👋 Hi there, this repositories are definitely not MrPeterJin's second account for research. This account serves as a storage of my ideas which are out of nothing.
 
 - :orange_book: Apart from Deep Learning, Python. As a former ECE Undergraduate Student, I am also fond of Embedded System Design. Also learning other interesting Techs.
-- 🚀: Sometimes I write some apps for fun with Flutter or other frameworks as an open-source enthusiast.
+- 🚀: Sometimes I write some apps for fun with Flutter or other frameworks as an open-source enthusiast. I always eager to learn anything. :)
 
 My PGP signature is `BA8D F912 5DE6 EFE8 9540 0AB0 9D5A D561 9E27 B262`
 
